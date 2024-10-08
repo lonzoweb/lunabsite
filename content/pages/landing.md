@@ -12,7 +12,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          label: Name
+          label: ''
           hideLabel: false
           placeholder: Your email
           width: full
