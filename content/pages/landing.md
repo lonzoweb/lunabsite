@@ -3,7 +3,7 @@ type: PageLayout
 title: LUNABUNNIES TALENT AGENCY
 sections:
   - type: ContactSection
-    title: Subscribe
+    title: COMING SOON
     text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
