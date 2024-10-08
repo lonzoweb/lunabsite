@@ -19,6 +19,7 @@ sections:
           isRequired: true
       submitLabel: SIGN UP
       elementId: contact-form
+    data-netlify: true
       styles:
         submitLabel:
           textAlign: left
