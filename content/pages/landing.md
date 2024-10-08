@@ -13,7 +13,7 @@ sections:
         - type: EmailFormControl
           name: email
           label: ''
-          hideLabel: false
+          hideLabel: true
           placeholder: Your email
           width: full
           isRequired: 'true'
