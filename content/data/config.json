@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "work@lunabunnies.com",
             "emailAltText": "My email",
-            "address": "200 Biscayne Blvd Way, Miami, FL 33131",
+            "address": "200 Biscayne Blvd Way #403, Miami, FL 33131",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [RELIC](https://www.netlify.com/)\n",
