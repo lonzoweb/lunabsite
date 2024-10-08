@@ -14,7 +14,7 @@ sections:
           name: email
           label: email
           hideLabel: true
-          placeholder: Your email
+          placeholder: ''
           width: full
           isRequired: 'true'
       submitLabel: Sign Up
