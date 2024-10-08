@@ -3,7 +3,7 @@ type: PageLayout
 title: LUNABUNNIES TALENT AGENCY
 sections:
   - type: ContactSection
-    title: COMING SOON
+    title: LUNABUNNIES ONLYFANS AGENCY - COMING SOON
     text: |
       Drop your email and we'll keep you up to date.
     form:
