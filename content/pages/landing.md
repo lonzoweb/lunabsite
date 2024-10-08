@@ -4,7 +4,8 @@ title: LUNABUNNIES TALENT AGENCY
 sections:
   - type: ContactSection
     title: COMING SOON
-    text: Join my newsletter to stay up-to-date
+    text: |
+      Drop your email and we'll keep you up to date.
     form:
       type: FormBlock
       title: Title of the form
