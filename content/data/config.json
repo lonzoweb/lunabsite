@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "200 Biscayne Blvd",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [RELIC](https://www.netlify.com/)\n",
