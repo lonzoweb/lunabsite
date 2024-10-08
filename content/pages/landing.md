@@ -16,7 +16,7 @@ sections:
           hideLabel: true
           placeholder: ''
           width: full
-          isRequired: 'true'
+          isRequired: true
       submitLabel: SIGN UP
       elementId: contact-form
       styles:
