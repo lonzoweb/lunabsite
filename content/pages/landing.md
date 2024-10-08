@@ -24,7 +24,7 @@ sections:
           textAlign: left
     colors: colors-d
     backgroundSize: full
-    elementId: ''
+    elementId: 'netlify'
     styles:
       self:
         height: auto
